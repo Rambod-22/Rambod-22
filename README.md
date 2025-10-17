@@ -60,7 +60,7 @@ I'm a passionate **Software Engineer** currently pursuing a degree in **Statisti
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rambod-22&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rambod-22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/api/?user=Rambod-22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
