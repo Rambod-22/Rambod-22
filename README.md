@@ -1,7 +1,7 @@
 # Hi there, I'm Rambod Zafar! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&center=true&vCenter=true&width=435&lines=Software+Engineer;Statistics+%26+Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&center=true&vCenter=true&width=600&lines=Software+Engineer;Stats+%26+Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
