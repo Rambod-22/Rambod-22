@@ -67,22 +67,12 @@ I'm a passionate **Software Engineer** currently pursuing a degree in **Statisti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rambod-22&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rambod-22&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 🎯 Featured Projects
 
 <div align="center">
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Rambod-22&repo=portfolio2.0&theme=tokyonight&hide_border=true)](https://github.com/Rambod-22/portfolio2.0)
 
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rambod-22&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🤝 Let's Connect!
